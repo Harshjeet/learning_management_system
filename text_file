@@ -1,0 +1,3 @@
+# run the api_test.py
+python3 -m pytest api_test.py --disable-warnings -v
+
